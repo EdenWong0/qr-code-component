@@ -46,11 +46,3 @@ html {
   font-size: 12px;
   margin: 0 0.5em 1.5em 0.5em;
 }
-
-@media (max-width: 991px) {
-  .qr-code-container {
-    min-height: auto;
-    min-width: auto;
-    height: auto;
-  }
-}
